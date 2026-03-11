@@ -1,0 +1,46 @@
+body{
+font-family: Arial, sans-serif;
+background: #000;
+color: #ffd500;
+text-align: center;
+padding-top: 100px;
+}
+
+h1{
+color:#ffd500;
+}
+
+.idea-box{
+background:#111;
+border:2px solid #ffd500;
+padding:30px;
+margin:auto;
+width:400px;
+border-radius:10px;
+font-size:20px;
+color:#ffd500;
+}
+
+button{
+margin-top:30px;
+padding:15px 30px;
+font-size:18px;
+border:none;
+border-radius:8px;
+background:#ffd500;
+color:#000;
+cursor:pointer;
+font-weight:bold;
+}
+
+button:hover{
+background:#ffea00;
+}
+
+input{
+padding:10px;
+border-radius:5px;
+border:2px solid #ffd500;
+background:#000;
+color:#ffd500;
+}
